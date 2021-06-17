@@ -1,24 +1,11 @@
 ### Hi there 👋
 
-<!--
-**jaypmorgan/jaypmorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <a href="https://github.com/jaypmorgan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypmorgan&line_height=24" />
 </a>
+
+<p></p>
+
 <a href="https://github.com/jaypmorgan/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypmorgan&layout=compact&langs_count=7&card_width=400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypmorgan&layout=compact&langs_count=7&card_width=445" />
 </a>
