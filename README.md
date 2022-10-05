@@ -10,7 +10,3 @@ Here are some highlighted articles, and a full list can be found <a href="https:
 You can find me at:
 - <a href="https://blog.morganwastaken.com">My personal website</a> contains some blog articles.
 - Other information (specifically my teaching modules) can be found on my <a href="https://pageperso.lis-lab.fr/jay.morgan/index.html">university website</a>.
-
-<a href="https://github.com/jaypmorgan/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypmorgan&layout=compact&card_width=445" />
-</a>
