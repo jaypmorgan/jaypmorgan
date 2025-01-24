@@ -8,5 +8,5 @@ Here are some highlighted articles, and a full list can be found <a href="https:
 - Adaptive neighbourhoods for the discovery of adversarial examples. J Morgan, A Paiement, A Pauly, M Seisenberger. arXiv preprint arXiv:2101.09108, 2021 <a href="https://scholar.google.com/citations?view_op=view_citation&user=AO1az5YAAAAJ&citation_for_view=AO1az5YAAAAJ:qjMakFHDy7sC">[link]</a>
 
 You can find me at:
-- <a href="https://blog.morganwastaken.com">My personal website</a> contains some blog articles.
+- <a href="https://morganwastaken.com">My personal website</a> contains some blog articles.
 - Other information (specifically my teaching modules) can be found on my <a href="https://pageperso.lis-lab.fr/jay.morgan/index.html">university website</a>.
